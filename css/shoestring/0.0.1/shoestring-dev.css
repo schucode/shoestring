@@ -414,19 +414,19 @@ input[type=button].button, input[type=submit].button, button.button {
 
 /* line 3, ../../../sass/shoestring/links.sass */
 a {
-  #color: #1c9bf2;
-  text-decoration: none; }
-  /* line 6, ../../../sass/shoestring/links.sass */
+  text-decoration: none;
+  color: black; }
+  /* line 7, ../../../sass/shoestring/links.sass */
   a:visited {
     color: black; }
-  /* line 8, ../../../sass/shoestring/links.sass */
+  /* line 9, ../../../sass/shoestring/links.sass */
   a:hover {
     color: #0b71b7; }
-  /* line 10, ../../../sass/shoestring/links.sass */
+  /* line 11, ../../../sass/shoestring/links.sass */
   a.menuop {
     font-family: Open Sans Condensed;
     font-size: 2.5rem; }
-  /* line 13, ../../../sass/shoestring/links.sass */
+  /* line 14, ../../../sass/shoestring/links.sass */
   a:active {
     color: #085387; }
 
